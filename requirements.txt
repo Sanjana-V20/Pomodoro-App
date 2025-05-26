@@ -1,3 +1,4 @@
 # Required dependencies for the Pomodoro App
 # Tkinter is included with Python's standard library, so no need to install it separately.
 playsound==1.2.2  # For audio notifications on macOS, Windows, and Linux
+customtkinter==5.2.1  # For the custom GUI components

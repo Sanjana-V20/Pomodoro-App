@@ -13,8 +13,20 @@ A visually pleasing Pomodoro app built using Python. This app helps you manage y
 
 ## Setup
 1. Clone this repository.
-2. Install the required dependencies.
-3. Run the application using `python app.py`.
+```
+git clone https://github.com/Sanjana-V20/Pomodoro-App.git
+cd Pomodoro-App
+```
+
+2. Install the required dependencies
+```
+pip install -r requirements.txt
+```
+
+3. Run the application
+```
+python app.py
+```
 
 ## Usage
 This app is designed to help you focus and improve productivity. Customize the timer settings as per your preference and start working in focused intervals.
